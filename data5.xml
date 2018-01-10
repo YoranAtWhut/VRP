@@ -1,0 +1,885 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<instance> 
+  <info> 
+    <dataset>dataset test</dataset> 
+  </info>  
+  <network> 
+    <nodes> 
+      <node id="1" type="1"> 
+        <cx>30</cx>  
+        <cy>16</cy>  
+        <early>1.0</early>  
+        <late>2.0</late>  
+        <s>0.2</s> 
+      </node>  
+      <node id="2" type="1"> 
+        <cx>6</cx>  
+        <cy>6</cy>  
+        <early>2.0</early>  
+        <late>3.0</late>  
+        <s>0.05</s> 
+      </node>  
+      <node id="3" type="1"> 
+        <cx>28</cx>  
+        <cy>13</cy>  
+        <early>2.0</early>  
+        <late>3.0</late>  
+        <s>0.1</s> 
+      </node>  
+      <node id="4" type="1"> 
+        <cx>6</cx>  
+        <cy>4</cy>  
+        <early>0.0</early>  
+        <late>1.0</late>  
+        <s>0.35</s> 
+      </node>  
+      <node id="5" type="1"> 
+        <cx>28</cx>  
+        <cy>8</cy>  
+        <early>0.5</early>  
+        <late>1.5</late>  
+        <s>0.1</s> 
+      </node>  
+      <node id="6" type="1"> 
+        <cx>31</cx>  
+        <cy>2</cy>  
+        <early>1.0</early>  
+        <late>2.0</late>  
+        <s>0.25</s> 
+      </node>  
+      <node id="7" type="1"> 
+        <cx>8</cx>  
+        <cy>0</cy>  
+        <early>0.5</early>  
+        <late>1.5</late>  
+        <s>0.35</s> 
+      </node>  
+      <node id="8" type="1"> 
+        <cx>21</cx>  
+        <cy>3</cy>  
+        <early>0.5</early>  
+        <late>1.5</late>  
+        <s>0.35</s> 
+      </node>  
+      <node id="9" type="1"> 
+        <cx>12</cx>  
+        <cy>5</cy>  
+        <early>2.0</early>  
+        <late>3.0</late>  
+        <s>0.05</s> 
+      </node>  
+      <node id="10" type="1"> 
+        <cx>19</cx>  
+        <cy>7</cy>  
+        <early>2.0</early>  
+        <late>3.0</late>  
+        <s>0.15</s> 
+      </node>  
+      <node id="11" type="1"> 
+        <cx>2</cx>  
+        <cy>20</cy>  
+        <early>2.0</early>  
+        <late>3.0</late>  
+        <s>0.35</s> 
+      </node>  
+      <node id="12" type="1"> 
+        <cx>10</cx>  
+        <cy>14</cy>  
+        <early>2.0</early>  
+        <late>3.0</late>  
+        <s>0.25</s> 
+      </node>  
+      <node id="13" type="1"> 
+        <cx>20</cx>  
+        <cy>14</cy>  
+        <early>1.5</early>  
+        <late>2.5</late>  
+        <s>0.35</s> 
+      </node>  
+      <node id="14" type="1"> 
+        <cx>20</cx>  
+        <cy>1</cy>  
+        <early>1.0</early>  
+        <late>2.0</late>  
+        <s>0.15</s> 
+      </node>  
+      <node id="15" type="1"> 
+        <cx>0</cx>  
+        <cy>0</cy>  
+        <early>1.0</early>  
+        <late>2.0</late>  
+        <s>0.05</s> 
+      </node>  
+      <node id="16" type="1"> 
+        <cx>8</cx>  
+        <cy>4</cy>  
+        <early>0.0</early>  
+        <late>1.0</late>  
+        <s>0.30</s> 
+      </node>  
+      <node id="17" type="1"> 
+        <cx>8</cx>  
+        <cy>15</cy>  
+        <early>0.5</early>  
+        <late>1.5</late>  
+        <s>0.1</s> 
+      </node>  
+      <node id="18" type="1"> 
+        <cx>9</cx>  
+        <cy>10</cy>  
+        <early>1.0</early>  
+        <late>2.0</late>  
+        <s>0.15</s> 
+      </node>  
+      <node id="19" type="1"> 
+        <cx>34</cx>  
+        <cy>3</cy>  
+        <early>0.0</early>  
+        <late>1.0</late>  
+        <s>0.2</s> 
+      </node>  
+      <node id="20" type="1"> 
+        <cx>10</cx>  
+        <cy>4</cy>  
+        <early>1.5</early>  
+        <late>2.5</late>  
+        <s>0.30</s> 
+      </node>  
+      <node id="21" type="1"> 
+        <cx>26</cx>  
+        <cy>7</cy>  
+        <early>1.5</early>  
+        <late>2.5</late>  
+        <s>0.35</s> 
+      </node>  
+      <node id="22" type="1"> 
+        <cx>37</cx>  
+        <cy>6</cy>  
+        <early>0.0</early>  
+        <late>1.0</late>  
+        <s>0.35</s> 
+      </node>  
+      <node id="23" type="1"> 
+        <cx>38</cx>  
+        <cy>13</cy>  
+        <early>1.0</early>  
+        <late>2.0</late>  
+        <s>0.05</s> 
+      </node>  
+      <node id="24" type="1"> 
+        <cx>2</cx>  
+        <cy>15</cy>  
+        <early>2.0</early>  
+        <late>3.0</late>  
+        <s>0.15</s> 
+      </node>  
+      <node id="25" type="1"> 
+        <cx>25</cx>  
+        <cy>1</cy>  
+        <early>0.5</early>  
+        <late>1.5</late>  
+        <s>0.35</s> 
+      </node>  
+      <node id="26" type="1"> 
+        <cx>15</cx>  
+        <cy>9</cy>  
+        <early>0.0</early>  
+        <late>1.0</late>  
+        <s>0.15</s> 
+      </node>  
+      <node id="27" type="1"> 
+        <cx>27</cx>  
+        <cy>8</cy>  
+        <early>2.0</early>  
+        <late>3.0</late>  
+        <s>0.1</s> 
+      </node>  
+      <node id="28" type="1"> 
+        <cx>21</cx>  
+        <cy>7</cy>  
+        <early>2.0</early>  
+        <late>3.0</late>  
+        <s>0.15</s> 
+      </node>  
+      <node id="29" type="1"> 
+        <cx>37</cx>  
+        <cy>13</cy>  
+        <early>1.5</early>  
+        <late>2.5</late>  
+        <s>0.05</s> 
+      </node>  
+      <node id="30" type="1"> 
+        <cx>35</cx>  
+        <cy>20</cy>  
+        <early>1.0</early>  
+        <late>2.0</late>  
+        <s>0.35</s> 
+      </node>  
+      <node id="31" type="2"> 
+        <cx>38</cx>  
+        <cy>3</cy>  
+        <early>3.5</early>  
+        <late>4.5</late>  
+        <s>0.2</s> 
+      </node>  
+      <node id="32" type="2"> 
+        <cx>22</cx>  
+        <cy>24</cy>  
+        <early>3.5</early>  
+        <late>4.5</late>  
+        <s>0.05</s> 
+      </node>  
+      <node id="33" type="2"> 
+        <cx>28</cx>  
+        <cy>5</cy>  
+        <early>4.5</early>  
+        <late>5.5</late>  
+        <s>0.1</s> 
+      </node>  
+      <node id="34" type="2"> 
+        <cx>38</cx>  
+        <cy>2</cy>  
+        <early>5.0</early>  
+        <late>6.0</late>  
+        <s>0.35</s> 
+      </node>  
+      <node id="35" type="2"> 
+        <cx>37</cx>  
+        <cy>16</cy>  
+        <early>4.5</early>  
+        <late>5.5</late>  
+        <s>0.1</s> 
+      </node>  
+      <node id="36" type="2"> 
+        <cx>0</cx>  
+        <cy>1</cy>  
+        <early>3.5</early>  
+        <late>4.5</late>  
+        <s>0.25</s> 
+      </node>  
+      <node id="37" type="2"> 
+        <cx>19</cx>  
+        <cy>7</cy>  
+        <early>4.0</early>  
+        <late>5.0</late>  
+        <s>0.35</s> 
+      </node>  
+      <node id="38" type="2"> 
+        <cx>27</cx>  
+        <cy>7</cy>  
+        <early>3.5</early>  
+        <late>4.5</late>  
+        <s>0.35</s> 
+      </node>  
+      <node id="39" type="2"> 
+        <cx>19</cx>  
+        <cy>13</cy>  
+        <early>5.0</early>  
+        <late>6.0</late>  
+        <s>0.05</s> 
+      </node>  
+      <node id="40" type="2"> 
+        <cx>20</cx>  
+        <cy>17</cy>  
+        <early>5.0</early>  
+        <late>6.0</late>  
+        <s>0.15</s> 
+      </node>  
+      <node id="41" type="2"> 
+        <cx>29</cx>  
+        <cy>19</cy>  
+        <early>3.0</early>  
+        <late>4.0</late>  
+        <s>0.35</s> 
+      </node>  
+      <node id="42" type="2"> 
+        <cx>28</cx>  
+        <cy>21</cy>  
+        <early>4.0</early>  
+        <late>5.0</late>  
+        <s>0.25</s> 
+      </node>  
+      <node id="43" type="2"> 
+        <cx>32</cx>  
+        <cy>7</cy>  
+        <early>4.0</early>  
+        <late>5.0</late>  
+        <s>0.35</s> 
+      </node>  
+      <node id="44" type="2"> 
+        <cx>31</cx>  
+        <cy>24</cy>  
+        <early>3.0</early>  
+        <late>4.0</late>  
+        <s>0.15</s> 
+      </node>  
+      <node id="45" type="2"> 
+        <cx>38</cx>  
+        <cy>25</cy>  
+        <early>4.0</early>  
+        <late>5.0</late>  
+        <s>0.05</s> 
+      </node>  
+      <node id="46" type="2"> 
+        <cx>32</cx>  
+        <cy>25</cy>  
+        <early>4.5</early>  
+        <late>5.5</late>  
+        <s>0.30</s> 
+      </node>  
+      <node id="47" type="2"> 
+        <cx>2</cx>  
+        <cy>18</cy>  
+        <early>3.0</early>  
+        <late>4.0</late>  
+        <s>0.1</s> 
+      </node>  
+      <node id="48" type="2"> 
+        <cx>40</cx>  
+        <cy>21</cy>  
+        <early>4.0</early>  
+        <late>5.0</late>  
+        <s>0.15</s> 
+      </node>  
+      <node id="49" type="2"> 
+        <cx>36</cx>  
+        <cy>24</cy>  
+        <early>4.5</early>  
+        <late>5.5</late>  
+        <s>0.2</s> 
+      </node>  
+      <node id="50" type="2"> 
+        <cx>2</cx>  
+        <cy>25</cy>  
+        <early>5.0</early>  
+        <late>6.0</late>  
+        <s>0.30</s> 
+      </node>  
+      <node id="51" type="2"> 
+        <cx>35</cx>  
+        <cy>8</cy>  
+        <early>5.0</early>  
+        <late>6.0</late>  
+        <s>0.35</s> 
+      </node>  
+      <node id="52" type="2"> 
+        <cx>7</cx>  
+        <cy>12</cy>  
+        <early>3.0</early>  
+        <late>4.0</late>  
+        <s>0.35</s> 
+      </node>  
+      <node id="53" type="2"> 
+        <cx>12</cx>  
+        <cy>14</cy>  
+        <early>4.0</early>  
+        <late>5.0</late>  
+        <s>0.05</s> 
+      </node>  
+      <node id="54" type="2"> 
+        <cx>30</cx>  
+        <cy>9</cy>  
+        <early>4.0</early>  
+        <late>5.0</late>  
+        <s>0.15</s> 
+      </node>  
+      <node id="55" type="2"> 
+        <cx>38</cx>  
+        <cy>5</cy>  
+        <early>4.5</early>  
+        <late>5.5</late>  
+        <s>0.35</s> 
+      </node>  
+      <node id="56" type="2"> 
+        <cx>18</cx>  
+        <cy>21</cy>  
+        <early>3.0</early>  
+        <late>4.0</late>  
+        <s>0.15</s> 
+      </node>  
+      <node id="57" type="2"> 
+        <cx>11</cx>  
+        <cy>4</cy>  
+        <early>4.0</early>  
+        <late>5.0</late>  
+        <s>0.1</s> 
+      </node>  
+      <node id="58" type="2"> 
+        <cx>9</cx>  
+        <cy>2</cy>  
+        <early>4.5</early>  
+        <late>5.5</late>  
+        <s>0.15</s> 
+      </node>  
+      <node id="59" type="2"> 
+        <cx>20</cx>  
+        <cy>25</cy>  
+        <early>3.5</early>  
+        <late>4.5</late>  
+        <s>0.05</s> 
+      </node>  
+      <node id="60" type="2"> 
+        <cx>33</cx>  
+        <cy>17</cy>  
+        <early>4.0</early>  
+        <late>5.0</late>  
+        <s>0.35</s> 
+      </node>  
+      <node id="61" type="0"> 
+        <cx>36</cx>  
+        <cy>3</cy>  
+        <early>0</early>  
+        <late>800</late>  
+        <s>0</s> 
+      </node>  
+      <node id="62" type="0"> 
+        <cx>28</cx>  
+        <cy>11</cy>  
+        <early>0</early>  
+        <late>800</late>  
+        <s>0</s> 
+      </node>  
+      <node id="63" type="0"> 
+        <cx>34</cx>  
+        <cy>16</cy>  
+        <early>0</early>  
+        <late>800</late>  
+        <s>0</s> 
+      </node>  
+      <node id="64" type="0"> 
+        <cx>14</cx>  
+        <cy>8</cy>  
+        <early>0</early>  
+        <late>800</late>  
+        <s>0</s> 
+      </node>  
+      <node id="65" type="0"> 
+        <cx>16</cx>  
+        <cy>0</cy>  
+        <early>0</early>  
+        <late>800</late>  
+        <s>0</s> 
+      </node>  
+      <node id="66" type="0"> 
+        <cx>10</cx>  
+        <cy>15</cy>  
+        <early>0</early>  
+        <late>800</late>  
+        <s>0</s> 
+      </node>  
+      <node id="67" type="0"> 
+        <cx>2</cx>  
+        <cy>13</cy>  
+        <early>0</early>  
+        <late>800</late>  
+        <s>0</s> 
+      </node>  
+      <node id="68" type="0"> 
+        <cx>27</cx>  
+        <cy>4</cy>  
+        <early>0</early>  
+        <late>800</late>  
+        <s>0</s> 
+      </node>  
+      <node id="69" type="0"> 
+        <cx>16</cx>  
+        <cy>8</cy>  
+        <early>0</early>  
+        <late>800</late>  
+        <s>0</s> 
+      </node>  
+      <node id="70" type="0"> 
+        <cx>36</cx>  
+        <cy>17</cy>  
+        <early>0</early>  
+        <late>800</late>  
+        <s>0</s> 
+      </node>  
+      <node id="71" type="0"> 
+        <cx>14</cx>  
+        <cy>6</cy>  
+        <early>0</early>  
+        <late>800</late>  
+        <s>0</s> 
+      </node>  
+      <node id="72" type="0"> 
+        <cx>16</cx>  
+        <cy>6</cy>  
+        <early>0</early>  
+        <late>800</late>  
+        <s>0</s> 
+      </node>  
+      <node id="73" type="0"> 
+        <cx>4</cx>  
+        <cy>15</cy>  
+        <early>0</early>  
+        <late>800</late>  
+        <s>0</s> 
+      </node>  
+      <node id="74" type="0"> 
+        <cx>3</cx>  
+        <cy>1</cy>  
+        <early>0</early>  
+        <late>800</late>  
+        <s>0</s> 
+      </node>  
+      <node id="75" type="0"> 
+        <cx>17</cx>  
+        <cy>2</cy>  
+        <early>0</early>  
+        <late>800</late>  
+        <s>0</s> 
+      </node> 
+    </nodes> 
+  </network>  
+  <fleet> 
+    <vehicle id="1"> 
+      <departure_node>73</departure_node>  
+      <arrival_node>65</arrival_node>  
+      <capacity>7.2</capacity>  
+      <early>0</early>  
+      <late>800</late>  
+      <velocity>30</velocity> 
+    </vehicle>  
+    <vehicle id="2"> 
+      <departure_node>63</departure_node>  
+      <arrival_node>67</arrival_node>  
+      <capacity>7.2</capacity>  
+      <early>0</early>  
+      <late>800</late>  
+      <velocity>30</velocity> 
+    </vehicle>  
+    <vehicle id="3"> 
+      <departure_node>70</departure_node>  
+      <arrival_node>74</arrival_node>  
+      <capacity>7.2</capacity>  
+      <early>0</early>  
+      <late>800</late>  
+      <velocity>30</velocity> 
+    </vehicle>  
+    <vehicle id="4"> 
+      <departure_node>75</departure_node>  
+      <arrival_node>65</arrival_node>  
+      <capacity>7.2</capacity>  
+      <early>0</early>  
+      <late>800</late>  
+      <velocity>30</velocity> 
+    </vehicle>  
+    <vehicle id="5"> 
+      <departure_node>71</departure_node>  
+      <arrival_node>66</arrival_node>  
+      <capacity>7.2</capacity>  
+      <early>0</early>  
+      <late>800</late>  
+      <velocity>30</velocity> 
+    </vehicle>  
+    <vehicle id="6"> 
+      <departure_node>74</departure_node>  
+      <arrival_node>67</arrival_node>  
+      <capacity>7.2</capacity>  
+      <early>0</early>  
+      <late>800</late>  
+      <velocity>30</velocity> 
+    </vehicle>  
+    <vehicle id="7"> 
+      <departure_node>69</departure_node>  
+      <arrival_node>61</arrival_node>  
+      <capacity>7.2</capacity>  
+      <early>0</early>  
+      <late>800</late>  
+      <velocity>30</velocity> 
+    </vehicle>  
+    <vehicle id="8"> 
+      <departure_node>68</departure_node>  
+      <arrival_node>62</arrival_node>  
+      <capacity>7.2</capacity>  
+      <early>0</early>  
+      <late>800</late>  
+      <velocity>30</velocity> 
+    </vehicle>  
+    <vehicle id="9"> 
+      <departure_node>64</departure_node>  
+      <arrival_node>66</arrival_node>  
+      <capacity>7.2</capacity>  
+      <early>0</early>  
+      <late>800</late>  
+      <velocity>30</velocity> 
+    </vehicle>  
+    <vehicle id="10"> 
+      <departure_node>67</departure_node>  
+      <arrival_node>64</arrival_node>  
+      <capacity>7.2</capacity>  
+      <early>0</early>  
+      <late>800</late>  
+      <velocity>30</velocity> 
+    </vehicle>  
+    <vehicle id="11"> 
+      <departure_node>74</departure_node>  
+      <arrival_node>68</arrival_node>  
+      <capacity>7.2</capacity>  
+      <early>0</early>  
+      <late>800</late>  
+      <velocity>30</velocity> 
+    </vehicle>  
+    <vehicle id="12"> 
+      <departure_node>75</departure_node>  
+      <arrival_node>62</arrival_node>  
+      <capacity>7.2</capacity>  
+      <early>0</early>  
+      <late>800</late>  
+      <velocity>30</velocity> 
+    </vehicle>  
+    <vehicle id="13"> 
+      <departure_node>67</departure_node>  
+      <arrival_node>72</arrival_node>  
+      <capacity>7.2</capacity>  
+      <early>0</early>  
+      <late>800</late>  
+      <velocity>30</velocity> 
+    </vehicle>  
+    <vehicle id="14"> 
+      <departure_node>71</departure_node>  
+      <arrival_node>61</arrival_node>  
+      <capacity>7.2</capacity>  
+      <early>0</early>  
+      <late>800</late>  
+      <velocity>30</velocity> 
+    </vehicle>  
+    <vehicle id="15"> 
+      <departure_node>64</departure_node>  
+      <arrival_node>65</arrival_node>  
+      <capacity>7.2</capacity>  
+      <early>0</early>  
+      <late>800</late>  
+      <velocity>30</velocity> 
+    </vehicle> 
+  </fleet>  
+  <delivery>
+    <request id="1" node="1"> 
+      <quantity>2.0</quantity> 
+    </request>  
+    <request id="2" node="2"> 
+      <quantity>0.5</quantity> 
+    </request>  
+    <request id="3" node="3"> 
+      <quantity>1.0</quantity> 
+    </request>  
+    <request id="4" node="4"> 
+      <quantity>3.5</quantity> 
+    </request>  
+    <request id="5" node="5"> 
+      <quantity>1.0</quantity> 
+    </request>  
+    <request id="6" node="6"> 
+      <quantity>2.5</quantity> 
+    </request>  
+    <request id="7" node="7"> 
+      <quantity>3.5</quantity> 
+    </request>  
+    <request id="8" node="8"> 
+      <quantity>3.5</quantity> 
+    </request>  
+    <request id="9" node="9"> 
+      <quantity>0.5</quantity> 
+    </request>  
+    <request id="10" node="10"> 
+      <quantity>1.5</quantity> 
+    </request>  
+    <request id="11" node="11"> 
+      <quantity>3.5</quantity> 
+    </request>  
+    <request id="12" node="12"> 
+      <quantity>2.5</quantity> 
+    </request>  
+    <request id="13" node="13"> 
+      <quantity>3.5</quantity> 
+    </request>  
+    <request id="14" node="14"> 
+      <quantity>1.5</quantity> 
+    </request>  
+    <request id="15" node="15"> 
+      <quantity>0.5</quantity> 
+    </request>  
+    <request id="16" node="16"> 
+      <quantity>3.0</quantity> 
+    </request>  
+    <request id="17" node="17"> 
+      <quantity>1.0</quantity> 
+    </request>  
+    <request id="18" node="18"> 
+      <quantity>1.5</quantity> 
+    </request>  
+    <request id="19" node="19"> 
+      <quantity>2.0</quantity> 
+    </request>  
+    <request id="20" node="20"> 
+      <quantity>3.0</quantity> 
+    </request>  
+    <request id="21" node="21"> 
+      <quantity>3.5</quantity> 
+    </request>  
+    <request id="22" node="22"> 
+      <quantity>3.5</quantity> 
+    </request>  
+    <request id="23" node="23"> 
+      <quantity>0.5</quantity> 
+    </request>  
+    <request id="24" node="24"> 
+      <quantity>1.5</quantity> 
+    </request>  
+    <request id="25" node="25"> 
+      <quantity>3.5</quantity> 
+    </request>  
+    <request id="26" node="26"> 
+      <quantity>1.5</quantity> 
+    </request>  
+    <request id="27" node="27"> 
+      <quantity>1.0</quantity> 
+    </request>  
+    <request id="28" node="28"> 
+      <quantity>1.5</quantity> 
+    </request>  
+    <request id="29" node="29"> 
+      <quantity>0.5</quantity> 
+    </request>  
+    <request id="30" node="30"> 
+      <quantity>3.5</quantity> 
+    </request>  
+    <request id="31" node="31"> 
+      <quantity>-2.0</quantity> 
+    </request>  
+    <request id="32" node="32"> 
+      <quantity>-0.5</quantity> 
+    </request>  
+    <request id="33" node="33"> 
+      <quantity>-1.0</quantity> 
+    </request>  
+    <request id="34" node="34"> 
+      <quantity>-3.5</quantity> 
+    </request>  
+    <request id="35" node="35"> 
+      <quantity>-1.0</quantity> 
+    </request>  
+    <request id="36" node="36"> 
+      <quantity>-2.5</quantity> 
+    </request>  
+    <request id="37" node="37"> 
+      <quantity>-3.5</quantity> 
+    </request>  
+    <request id="38" node="38"> 
+      <quantity>-3.5</quantity> 
+    </request>  
+    <request id="39" node="39"> 
+      <quantity>-0.5</quantity> 
+    </request>  
+    <request id="40" node="40"> 
+      <quantity>-1.5</quantity> 
+    </request>  
+    <request id="41" node="41"> 
+      <quantity>-3.5</quantity> 
+    </request>  
+    <request id="42" node="42"> 
+      <quantity>-2.5</quantity> 
+    </request>  
+    <request id="43" node="43"> 
+      <quantity>-3.5</quantity> 
+    </request>  
+    <request id="44" node="44"> 
+      <quantity>-1.5</quantity> 
+    </request>  
+    <request id="45" node="45"> 
+      <quantity>-0.5</quantity> 
+    </request>  
+    <request id="46" node="46"> 
+      <quantity>-3.0</quantity> 
+    </request>  
+    <request id="47" node="47"> 
+      <quantity>-1.0</quantity> 
+    </request>  
+    <request id="48" node="48"> 
+      <quantity>-1.5</quantity> 
+    </request>  
+    <request id="49" node="49"> 
+      <quantity>-2.0</quantity> 
+    </request>  
+    <request id="50" node="50"> 
+      <quantity>-3.0</quantity> 
+    </request>  
+    <request id="51" node="51"> 
+      <quantity>-3.5</quantity> 
+    </request>  
+    <request id="52" node="52"> 
+      <quantity>-3.5</quantity> 
+    </request>  
+    <request id="53" node="53"> 
+      <quantity>-0.5</quantity> 
+    </request>  
+    <request id="54" node="54"> 
+      <quantity>-1.5</quantity> 
+    </request>  
+    <request id="55" node="55"> 
+      <quantity>-3.5</quantity> 
+    </request>  
+    <request id="56" node="56"> 
+      <quantity>-1.5</quantity> 
+    </request>  
+    <request id="57" node="57"> 
+      <quantity>-1.0</quantity> 
+    </request>  
+    <request id="58" node="58"> 
+      <quantity>-1.5</quantity> 
+    </request>  
+    <request id="59" node="59"> 
+      <quantity>-0.5</quantity> 
+    </request>  
+    <request id="60" node="60"> 
+      <quantity>-3.5</quantity> 
+    </request>  
+    <request id="61" node="61"> 
+      <quantity>0</quantity> 
+    </request>  
+    <request id="62" node="62"> 
+      <quantity>0</quantity> 
+    </request>  
+    <request id="63" node="63"> 
+      <quantity>0</quantity> 
+    </request>  
+    <request id="64" node="64"> 
+      <quantity>0</quantity> 
+    </request>  
+    <request id="65" node="65"> 
+      <quantity>0</quantity> 
+    </request>  
+    <request id="66" node="66"> 
+      <quantity>0</quantity> 
+    </request>  
+    <request id="67" node="67"> 
+      <quantity>0</quantity> 
+    </request>  
+    <request id="68" node="68"> 
+      <quantity>0</quantity> 
+    </request>  
+    <request id="69" node="69"> 
+      <quantity>0</quantity> 
+    </request>  
+    <request id="70" node="70"> 
+      <quantity>0</quantity> 
+    </request>  
+    <request id="71" node="71"> 
+      <quantity>0</quantity> 
+    </request>  
+    <request id="72" node="72"> 
+      <quantity>0</quantity> 
+    </request>  
+    <request id="73" node="73"> 
+      <quantity>0</quantity> 
+    </request>  
+    <request id="74" node="74"> 
+      <quantity>0</quantity> 
+    </request>  
+    <request id="75" node="75"> 
+      <quantity>0</quantity> 
+    </request> 
+  </delivery> 
+</instance>
